@@ -5,7 +5,7 @@ entries:
       category: Infrastructure
     apiVersion: v1
     appVersion: 0.3.1
-    created: "2022-06-07T21:40:08.080537+08:00"
+    created: "2022-06-07T21:48:30.152696+08:00"
     description: A Library Helm Chart for grouping common logic between bitnami charts.
       This chart is not deployable by itself.
     digest: 498cb374f2057bd5b5c379af0100dbe93f786213af92201ddcae7134525e4772
@@ -25,14 +25,14 @@ entries:
     sources:
     - https://github.com/bitnami/charts
     urls:
-    - https://ikbenfrits.github.io/helm-charts/common-0.3.1.tgz
+    - https://ikbenfrits.github.io/helm-charts/common/common-0.3.1.tgz
     version: 0.3.1
   postgresql:
   - annotations:
       category: Database
     apiVersion: v1
     appVersion: 11.8.0
-    created: "2022-06-07T21:40:08.084227+08:00"
+    created: "2022-06-07T21:48:30.156143+08:00"
     description: Chart for PostgreSQL, an object-relational database management system
       (ORDBMS) with an emphasis on extensibility and on standards-compliance.
     digest: 171955c6b37f62aca74d8cbfe9a3807514f1abf21e55b7cd6b8045688281391d
@@ -55,6 +55,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-postgresql
     urls:
-    - https://ikbenfrits.github.io/helm-charts/postgresql-9.1.1.tgz
+    - https://ikbenfrits.github.io/helm-charts/postgresql/postgresql-9.1.1.tgz
     version: 9.1.1
-generated: "2022-06-07T21:40:08.076971+08:00"
+generated: "2022-06-07T21:48:30.151875+08:00"
