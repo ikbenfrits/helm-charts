@@ -7,7 +7,7 @@ entries:
     appVersion: 0.3.1
     created: "2022-06-07T21:48:30.152696+08:00"
     description: A Library Helm Chart for grouping common logic between bitnami charts.
-      This chart is not deployable by itself.
+      This chart is not deployable by itself..
     digest: 498cb374f2057bd5b5c379af0100dbe93f786213af92201ddcae7134525e4772
     engine: gotpl
     home: http://www.bitnami.com/
